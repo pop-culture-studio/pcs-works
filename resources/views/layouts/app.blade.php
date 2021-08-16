@@ -8,6 +8,13 @@
 
         <title>{{ config('app.name', 'Laravel') }}</title>
 
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:creator" content="@SDSfukuoka">
+        <meta name="twitter:site" content="@SDSfukuoka">
+        <meta property="og:title" content="{{ config('app.name', 'Laravel') }}">
+        <meta property="og:description" content="サブカルデザインスタジオ福岡への仕事の依頼はこちらから">
+        <meta property="og:image" content="{{ asset('/images/card.jpg') }}">
+
         <!-- Fonts -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap">
 
