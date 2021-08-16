@@ -13,6 +13,8 @@
                 target="_blank">SDSサイトの問い合わせフォーム</a>、
             <a href="https://twitter.com/sdsfukuoka" class="text-indigo-500 font-bold underline"
                 target="_blank">Twitter</a>、
+            <a href="https://www.instagram.com/sds_nozamaru/" class="text-indigo-500 font-bold underline"
+                target="_blank">Instagram</a>、
             等から受け付けています。
         </div>
     </div>
