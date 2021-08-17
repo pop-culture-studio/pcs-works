@@ -1,7 +1,7 @@
 <div class="p-6 sm:px-20 bg-white border-b border-gray-200">
 
     <h1 class="mt-2 text-2xl">
-        サブカルデザインスタジオ福岡への仕事の依頼はこちらから
+        サブカルデザインスタジオ福岡(SDS)への仕事の依頼はこちらから
     </h1>
 
     <div class="mt-6 text-gray-500">
