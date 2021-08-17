@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * 仕事メニュー
+ * textはhtml可
+ */
 return [
     [
         'title' => 'Webシステム開発',
