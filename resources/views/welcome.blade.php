@@ -15,7 +15,8 @@
                 target="_blank">Twitter</a>、
             <a href="https://www.instagram.com/sds_nozamaru/" class="text-indigo-500 font-bold underline"
                 target="_blank">Instagram</a>、
-            <span class="font-semibold">電話 092-292-5417</span>
+            <a href="tel:0922925417" class="text-indigo-500 font-bold underline"
+                target="_blank">電話 092-292-5417</a>
             等から受け付けています。
         </div>
     </div>
