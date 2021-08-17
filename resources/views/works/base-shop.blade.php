@@ -5,7 +5,7 @@
 
     <div>
         <a href="https://sds0301.thebase.in/" target="_blank">
-            <img src="{{ asset('images/base-shop.png') }}">
+            <img src="{{ asset('images/base-shop.png') }}" alt="Magnifique" title="Magnifique">
         </a>
     </div>
 
