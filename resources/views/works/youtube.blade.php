@@ -3,5 +3,5 @@
         <a href="https://www.youtube.com/channel/UC4bJtRY-iA69VvYAZqE3tDA" target="_blank" class="text-indigo-500 underline">We!Comeチャレンジドチャンネル</a>
     </h3>
 
-    <div>SDS&amp;SBCのYouTubeチャンネル。</div>
+    <div>YouTubeチャンネル。</div>
 </div>
