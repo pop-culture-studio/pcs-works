@@ -9,7 +9,7 @@
 
         <div class="py-3">
             問い合わせは
-            <a href="http://www.sds.fukuoka.jp/" class="text-indigo-500 font-bold underline"
+            <a href="https://sds.fukuoka.jp/" class="text-indigo-500 font-bold underline"
                 target="_blank">SDS公式サイトの問い合わせフォーム</a>、
             <a href="https://twitter.com/sdsfukuoka" class="text-indigo-500 font-bold underline"
                 target="_blank">Twitter</a>、
