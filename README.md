@@ -6,7 +6,7 @@ https://works.sds.fukuoka.jp/
 `config/menu.php`を編集。
 
 ## 制作実績
-`resources/views/works/`内と`resources/views/works.balde.php`を編集。
+`resources/views/works/`内と`resources/views/works.blade.php`を編集。
 
 ## サーバー
 - Vercel https://vercel.com/
