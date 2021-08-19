@@ -2,6 +2,12 @@
 
 https://works.sds.fukuoka.jp/
 
+## 仕事メニュー
+`config/menu.php`を編集。
+
+## 制作実績
+`resources/views/works/`内と`resources/views/works.balde.php`を編集。
+
 ## サーバー
 - Vercel https://vercel.com/
   - GitHubで更新すれば自動で反映される。
