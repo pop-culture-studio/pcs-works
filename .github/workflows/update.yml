@@ -15,5 +15,5 @@ jobs:
         uses: kawax/composer-update-action@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GIT_NAME: sds-fukuoka
-          GIT_EMAIL: sds.engineer.team@gmail.com
+          GIT_NAME: PCS
+          GIT_EMAIL: pcs.engineer.team@gmail.com
