@@ -39,7 +39,7 @@
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie",
-        "SESSION_COOKIE": "sds_works_session",
+        "SESSION_COOKIE": "pcs_works_session",
         "VIEW_COMPILED_PATH": "/tmp"
     }
 }
