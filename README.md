@@ -1,6 +1,6 @@
 # PCS Works
 
-https://works.sds.fukuoka.jp/
+https://pcs-works.vercel.app/
 
 ## 仕事メニュー
 `config/menu.php`を編集。
@@ -13,6 +13,7 @@ https://works.sds.fukuoka.jp/
   - GitHubで更新すれば自動で反映される。
 
 ## ドメイン
+- （停止中。vercelのまま使用）
 - ebit https://www.ebit.co.jp/
 - AWS Route53
 - Vercelのカスタムドメインを設定 https://vercel.com/docs/custom-domains
