@@ -1,6 +1,6 @@
 <div class="py-3">
     <h3 class="font-bold text-lg">
-        <a href="https://www.youtube.com/channel/UC4bJtRY-iA69VvYAZqE3tDA" target="_blank" class="text-indigo-500 underline">We!Comeチャレンジドチャンネル</a>
+        <a href="https://www.youtube.com/channel/UCGlJLfwU0Sl80kPhYxd9IIg" target="_blank" class="text-indigo-500 underline">未来図チャンネル</a>
     </h3>
 
     <div>YouTubeチャンネル。</div>
