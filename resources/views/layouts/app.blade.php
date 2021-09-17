@@ -5,8 +5,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <meta name="description" content="サブカルデザインスタジオ福岡への仕事の依頼はこちらから">
-        
-        <meta name="google-site-verification" content="bzkYKVqyoJK4b_T192FRbMFaUbRf7hy_ShWQJSLFHFQ">
 
         <title>{{ config('app.name', 'Laravel') }}</title>
 
