@@ -17,3 +17,14 @@ https://pcs-works.vercel.app/
 - ebit https://www.ebit.co.jp/
 - AWS Route53
 - Vercelのカスタムドメインを設定 https://vercel.com/docs/custom-domains
+
+## ローカル開発
+`git clone`後
+```
+composer install
+npm install
+npm run dev
+cp .env.example .env
+php artisan key:generate
+```
+.envはSailか`php artisan serve`かの開発環境に合わせて変更。
