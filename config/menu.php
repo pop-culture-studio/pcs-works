@@ -15,7 +15,7 @@ return [
     ],
     [
         'title' => '小さい通知ツール',
-        'text' => 'LINEやチャットなどに何らかの情報を通知するようなツール。',
+        'text' => 'LINEやチャットなどに何らかの情報を通知するようなツール。<a href="https://github.com/pop-culture-studio/aws-cost" class="underline" target="_blank">AWSのコストをLINEに通知。</a>',
     ],
     [
         'title' => '動画制作',
