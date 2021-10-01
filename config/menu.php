@@ -7,7 +7,7 @@
 return [
     [
         'title' => 'Webシステム開発',
-        'text' => 'PCSサイトやここのようなプログラマー／エンジニアによるWebシステム開発。<a href="https://github.com/pop-culture-studio" class="underline" target="_blank">GitHub</a> <a href="https://twitter.com/PCS_engineer" class="underline" target="_blank">Twitter@PCS_engineer</a>',
+        'text' => 'PCSサイトやここのようなプログラマー／エンジニアによるWebシステム開発。<a href="https://github.com/pop-culture-studio" class="underline" target="_blank">GitHub</a>',
     ],
     [
         'title' => '飲食店向けのスマホで注文するシステム',
