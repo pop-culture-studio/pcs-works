@@ -4,17 +4,17 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
-        <meta name="description" content="サブカルデザインスタジオ福岡への仕事の依頼はこちらから">
-        
+        <meta name="description" content="ポップカルチャースタジオ未来図への仕事の依頼はこちらから">
+
         <meta name="google-site-verification" content="bzkYKVqyoJK4b_T192FRbMFaUbRf7hy_ShWQJSLFHFQ">
 
         <title>{{ config('app.name', 'Laravel') }}</title>
 
         <meta name="twitter:card" content="summary">
-        <meta name="twitter:creator" content="@SDSfukuoka">
-        <meta name="twitter:site" content="@SDSfukuoka">
+        <meta name="twitter:creator" content="@PCS_miraizu">
+        <meta name="twitter:site" content="@PCS_miraizu">
         <meta property="og:title" content="{{ config('app.name', 'Laravel') }}">
-        <meta property="og:description" content="サブカルデザインスタジオ福岡への仕事の依頼はこちらから">
+        <meta property="og:description" content="ポップカルチャースタジオ未来図への仕事の依頼はこちらから">
         <meta property="og:image" content="{{ asset('/images/card.jpg') }}">
 
         <!-- Fonts -->
