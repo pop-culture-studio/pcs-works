@@ -10,7 +10,7 @@ return [
         'text' => 'PCSサイトやここのようなプログラマー／エンジニアによるWebシステム開発。<a href="https://github.com/pop-culture-studio" class="underline" target="_blank">GitHub</a>',
     ],
     [
-        'title' => '飲食店向けのスマホで注文するシステム',
+        'title' => '飲食店向けのスマホで注文するセルフオーダーシステム',
         'text' => '店内で利用する想定。<a href="https://pcs-order-sample.vercel.app/order/1" class="underline" target="_blank">サンプル</a>',
     ],
     [
