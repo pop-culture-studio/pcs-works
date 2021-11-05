@@ -5,7 +5,7 @@
 
         @include('works.youtube1')
 
-        @include('works.sample')
-        @include('works.sample2')
+        {{-- @include('works.sample') --}}
+        {{-- @include('works.sample2') --}}
     </div>
 </div>
