@@ -5,7 +5,6 @@
     </h1>
 
     <div class="mt-6 text-gray-500">
-
         @include('contact')
     </div>
 </div>
