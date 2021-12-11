@@ -3,9 +3,9 @@
     <div class="divide-y">
         @foreach (collect(config('menu')) as $menu)
             <div class="py-3">
-                <h3 class="font-bold text-lg text-gray-800">{{ $menu['title'] ?? '' }}</h3>
+                <h3 class="font-bold text-xl text-gray-800">{{ $menu['title'] ?? '' }}</h3>
 
-                <div>{!! $menu['text'] ?? '' !!}</div>
+                <div class="mt-1">{!! $menu['text'] ?? '' !!}</div>
             </div>
         @endforeach
     </div>
