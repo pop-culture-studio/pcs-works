@@ -1,4 +1,4 @@
-<div class="py-3">
+<div class="py-3 opacity-50">
     <h3 class="font-bold text-xl">
         <a href="https://www.youtube.com/channel/UC4bJtRY-iA69VvYAZqE3tDA" target="_blank" class="text-indigo-500 underline underline-offset-2">We!Comeチャレンジドチャンネル</a>
     </h3>
