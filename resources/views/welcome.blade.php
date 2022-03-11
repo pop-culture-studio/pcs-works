@@ -1,4 +1,4 @@
-<div class="p-6 sm:px-20 bg-white border-b border-gray-200">
+<div class="p-6 sm:px-20 bg-white border-b border-gray-200 bg-opacity-60">
 
     <h1 class="mt-2 text-2xl font-extrabold">
         ポップカルチャースタジオ未来図(PCS)への仕事の依頼はこちらから
@@ -9,23 +9,23 @@
     </div>
 </div>
 
-<div class="bg-gray-200 bg-opacity-25 grid grid-cols-1 md:grid-cols-2">
-    <div class="p-6">
+<div class="p-6 sm:px-20 bg-gray-100 bg-opacity-60 grid grid-cols-1 md:grid-cols-2">
+    <div class="py-3">
         <div class="flex items-center">
-            <h2 class="ml-1 sm:ml-4 text-lg text-gray-800 leading-7 font-bold">仕事メニュー</h2>
+            <h2 class="text-lg text-gray-800 leading-7 font-bold">仕事メニュー</h2>
         </div>
 
-        <div class="ml-12">
+        <div class="ml-6">
             @include('menu')
         </div>
     </div>
 
-    <div class="p-6 border-t border-gray-200 md:border-t-0 md:border-l">
+    <div class="p-3 border-t border-gray-100 md:border-t-0 md:border-l">
         <div class="flex items-center">
-            <h2 class="ml-1 sm:ml-4 text-lg text-gray-800 leading-7 font-bold">制作実績</h2>
+            <h2 class="text-lg text-gray-800 leading-7 font-bold">制作実績</h2>
         </div>
 
-        <div class="ml-12">
+        <div class="ml-6">
             @include('works')
         </div>
     </div>
