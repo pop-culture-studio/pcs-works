@@ -1,4 +1,4 @@
-<div class="p-6 sm:px-20 bg-white border-b border-gray-200 bg-opacity-60">
+<div class="p-6 sm:px-20 bg-white border-b border-gray-200 bg-opacity-80">
 
     <h1 class="mt-2 text-2xl font-extrabold">
         ポップカルチャースタジオ未来図(PCS)への仕事の依頼はこちらから
@@ -9,7 +9,7 @@
     </div>
 </div>
 
-<div class="p-6 sm:px-20 bg-gray-100 bg-opacity-60 grid grid-cols-1 md:grid-cols-2">
+<div class="p-6 sm:px-20 bg-gray-100 bg-opacity-80 grid grid-cols-1 md:grid-cols-2">
     <div class="py-3">
         <div class="flex items-center">
             <h2 class="text-lg text-gray-800 leading-7 font-bold">仕事メニュー</h2>
