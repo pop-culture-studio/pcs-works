@@ -14,7 +14,7 @@
     等から受け付けています。
 </div>
 <div>
-    LITALICO仕事ナビ
+    公式サイトはリニューアル中なのでその他の情報はLITALICO仕事ナビで確認してください。
     <a href="https://snabi.jp/facility/19496"
        class="text-indigo-500 font-bold underline underline-offset-2"
        target="_blank">ポップカルチャースタジオ未来図（福岡）</a>
