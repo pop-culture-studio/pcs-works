@@ -9,4 +9,7 @@
             </div>
         @endforeach
     </div>
+    <div>
+        <img src="{{ asset('images/working.jpg') }}" class="w-full shadow-lg rounded-md">
+    </div>
 </div>

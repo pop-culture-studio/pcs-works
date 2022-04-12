@@ -31,7 +31,7 @@
     <body class="font-sans antialiased">
         {{-- <x-jet-banner /> --}}
 
-        <div class="min-h-screen bg-gray-100">
+        <div class="min-h-screen bg-gray-100 sm:bg-gradient-to-b from-white to-gray-900">
             {{-- @livewire('navigation-menu') --}}
 
             <!-- Page Heading -->

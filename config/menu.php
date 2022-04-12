@@ -17,20 +17,4 @@ return [
         'title' => '小さい通知ツール',
         'text' => 'LINEやチャットなどに何らかの情報を通知するようなツール。<a href="https://github.com/pop-culture-studio/aws-cost" class="underline underline-offset-2" target="_blank">AWSのコストをLINEに通知。</a>',
     ],
-    [
-        'title' => 'イラスト関係',
-        'text' => 'イラスト、漫画、素材、アバター、LINEスタンプなどの制作。',
-    ],
-    [
-        'title' => '音楽関係',
-        'text' => '歌ってみた、BGM制作、楽器演奏。',
-    ],
-    [
-        'title' => '動画関係',
-        'text' => '動画収録、音声収録、動画編集。',
-    ],
-    [
-        'title' => 'ハンドクラフト関係',
-        'text' => 'レジンアクセサリー、プラモ制作。',
-    ],
 ];

@@ -1,4 +1,4 @@
-<div class="py-3 text-md">
+<div class="py-3 text-lg">
     問い合わせは
     {{--    <a href="https://sds.fukuoka.jp/" class="text-indigo-500 font-bold underline underline-offset-2"--}}
     {{--        target="_blank">PCS公式サイトの問い合わせフォーム</a>、--}}
