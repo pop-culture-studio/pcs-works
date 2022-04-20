@@ -11,6 +11,7 @@ https://pcs-works.vercel.app/
 ## サーバー
 - Vercel https://vercel.com/
   - GitHubで更新すれば自動で反映される。
+- データベースは不使用
 
 ## ドメイン
 - （停止中。vercelのまま使用）
