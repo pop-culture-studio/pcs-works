@@ -7,7 +7,7 @@
        target="_blank">問い合わせフォーム</a>、
     <a href="https://twitter.com/PCS_miraizu" class="text-indigo-500 font-bold underline underline-offset-2"
        target="_blank">Twitter@PCS_miraizu</a>、
-    <a href="https://www.instagram.com/pcs_nozamaru/" class="text-indigo-500 font-bold underline underline-offset-2"
+    <a href="https://www.instagram.com/pcs_miraizu/" class="text-indigo-500 font-bold underline underline-offset-2"
        target="_blank">Instagram</a>、
     <a href="tel:0922925417" class="text-indigo-500 font-bold underline underline-offset-2"
        target="_blank">電話 092-292-5417</a>
