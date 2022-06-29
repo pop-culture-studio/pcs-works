@@ -24,7 +24,7 @@ https://pcs-works.vercel.app/
 ```
 composer install
 npm install
-npm run prod
+npm run build
 cp .env.example .env
 php artisan key:generate
 ```
