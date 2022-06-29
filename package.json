@@ -3,7 +3,7 @@
     "scripts": {
         "dev": "vite",
         "build": "vite build",
-        "vercel-build": "npm run prod"
+        "vercel-build": "npm run build"
     },
     "devDependencies": {
         "@tailwindcss/forms": "^0.4.0",
