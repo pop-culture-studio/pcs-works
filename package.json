@@ -2,7 +2,8 @@
     "private": true,
     "scripts": {
         "dev": "vite",
-        "build": "vite build"
+        "prod": "vite build",
+        "build": "npm run prod"
     },
     "devDependencies": {
         "@tailwindcss/forms": "^0.4.0",
