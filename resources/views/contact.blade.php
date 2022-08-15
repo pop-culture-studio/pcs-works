@@ -1,7 +1,7 @@
 <div class="py-3 text-lg">
     問い合わせは
-    {{--    <a href="https://sds.fukuoka.jp/" class="text-indigo-500 font-bold underline underline-offset-2"--}}
-    {{--        target="_blank">PCS公式サイトの問い合わせフォーム</a>、--}}
+        <a href="https://pcs-miraizu.com/" class="text-indigo-500 font-bold underline underline-offset-2"
+            target="_blank">PCS公式サイト</a>、
 {{--    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWdOuysKuaNyOcNJ2e2VvXRApInKDq2GlXk8oJRYDOLQjcAA/viewform"--}}
 {{--       class="text-indigo-500 font-bold underline underline-offset-2"--}}
 {{--       target="_blank">問い合わせフォーム</a>、--}}
@@ -14,7 +14,7 @@
     等から受け付けています。
 </div>
 <div>
-    公式サイトはリニューアル中なのでその他の情報はLITALICO仕事ナビで確認してください。
+    LITALICO仕事ナビ
     <a href="https://snabi.jp/facility/19496"
        class="text-indigo-500 font-bold underline underline-offset-2"
        target="_blank">ポップカルチャースタジオ未来図（福岡）</a>
