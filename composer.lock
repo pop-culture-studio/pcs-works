@@ -881,16 +881,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "2.4.2",
+            "version": "2.4.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "3148458748274be1546f8f2809a6c09fe66f44aa"
+                "reference": "67c26b443f348a51926030c83481b85718457d3d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/3148458748274be1546f8f2809a6c09fe66f44aa",
-                "reference": "3148458748274be1546f8f2809a6c09fe66f44aa",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/67c26b443f348a51926030c83481b85718457d3d",
+                "reference": "67c26b443f348a51926030c83481b85718457d3d",
                 "shasum": ""
             },
             "require": {
@@ -980,7 +980,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/2.4.2"
+                "source": "https://github.com/guzzle/psr7/tree/2.4.3"
             },
             "funding": [
                 {
@@ -996,7 +996,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-10-25T13:49:28+00:00"
+            "time": "2022-10-26T14:07:24+00:00"
         },
         {
             "name": "jaybizzle/crawler-detect",
@@ -1384,16 +1384,16 @@
         },
         {
             "name": "laravel/jetstream",
-            "version": "v2.12.4",
+            "version": "v2.12.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/jetstream.git",
-                "reference": "7bc4d100ed89494b577956ec5a46f90e33c5c9c4"
+                "reference": "78a3f7d182a4e91c74af8fd62c42eb68c65b8ee2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/jetstream/zipball/7bc4d100ed89494b577956ec5a46f90e33c5c9c4",
-                "reference": "7bc4d100ed89494b577956ec5a46f90e33c5c9c4",
+                "url": "https://api.github.com/repos/laravel/jetstream/zipball/78a3f7d182a4e91c74af8fd62c42eb68c65b8ee2",
+                "reference": "78a3f7d182a4e91c74af8fd62c42eb68c65b8ee2",
                 "shasum": ""
             },
             "require": {
@@ -1450,7 +1450,7 @@
                 "issues": "https://github.com/laravel/jetstream/issues",
                 "source": "https://github.com/laravel/jetstream"
             },
-            "time": "2022-10-25T16:33:42+00:00"
+            "time": "2022-10-26T08:15:07+00:00"
         },
         {
             "name": "laravel/sanctum",
@@ -8226,16 +8226,16 @@
         },
         {
             "name": "spatie/laravel-ignition",
-            "version": "1.6.0",
+            "version": "1.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/laravel-ignition.git",
-                "reference": "c21309ebf6657e0c38083afac8af9baa12885676"
+                "reference": "2b79cf6ed40946b64ac6713d7d2da8a9d87f612b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/laravel-ignition/zipball/c21309ebf6657e0c38083afac8af9baa12885676",
-                "reference": "c21309ebf6657e0c38083afac8af9baa12885676",
+                "url": "https://api.github.com/repos/spatie/laravel-ignition/zipball/2b79cf6ed40946b64ac6713d7d2da8a9d87f612b",
+                "reference": "2b79cf6ed40946b64ac6713d7d2da8a9d87f612b",
                 "shasum": ""
             },
             "require": {
@@ -8312,7 +8312,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-10-25T08:38:04+00:00"
+            "time": "2022-10-26T17:39:54+00:00"
         },
         {
             "name": "theseer/tokenizer",
