@@ -1,16 +1,11 @@
 <div class="py-3 text-lg">
     問い合わせは
-        <a href="https://pcs-miraizu.com/" class="text-indigo-500 font-bold underline underline-offset-2"
-            target="_blank">PCS公式サイト</a>、
-{{--    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWdOuysKuaNyOcNJ2e2VvXRApInKDq2GlXk8oJRYDOLQjcAA/viewform"--}}
-{{--       class="text-indigo-500 font-bold underline underline-offset-2"--}}
-{{--       target="_blank">問い合わせフォーム</a>、--}}
+    <a href="https://pcs-miraizu.com/" class="text-indigo-500 font-bold underline underline-offset-2"
+       target="_blank">PCS公式サイト</a>、
     <a href="https://twitter.com/PCS_miraizu" class="text-indigo-500 font-bold underline underline-offset-2"
        target="_blank">Twitter@PCS_miraizu</a>、
     <a href="https://www.instagram.com/pcs_miraizu/" class="text-indigo-500 font-bold underline underline-offset-2"
        target="_blank">Instagram</a>、
-    <a href="tel:0922925417" class="text-indigo-500 font-bold underline underline-offset-2"
-       target="_blank">電話 092-292-5417</a>
     等から受け付けています。
 </div>
 <div>
