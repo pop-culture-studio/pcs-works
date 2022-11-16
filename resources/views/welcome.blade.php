@@ -28,5 +28,13 @@
         <div class="ml-6">
             @include('works')
         </div>
+
+        <div class="flex items-center">
+            <h2 class="text-lg text-gray-900 leading-7 font-bold">関連</h2>
+        </div>
+
+        <div class="ml-6">
+            @include('links')
+        </div>
     </div>
 </div>
