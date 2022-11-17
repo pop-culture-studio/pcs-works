@@ -20,6 +20,10 @@ class NoteRss extends Component
 
             $xml = simplexml_load_file('https://note.com/pcs_miraizu/rss');
 
+            if (! $xml) {
+                return $items;
+            }
+
             foreach ($xml->channel->item as $item) {
                 $items->push([
                     'title' => (string) $item->title,
