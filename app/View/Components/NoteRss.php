@@ -17,7 +17,9 @@ class NoteRss extends Component
     {
         $this->items = cache()->remember('note.rss', now()->addHours(12), function () {
             $items = collect();
+
             $xml = simplexml_load_file('https://note.com/pcs_miraizu/rss');
+
             foreach ($xml->channel->item as $item) {
                 $items->push([
                     'title' => (string) $item->title,
