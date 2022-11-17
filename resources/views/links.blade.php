@@ -1,8 +1,9 @@
 <div class="mt-2 text-sm text-gray-700">
     <div class="divide-y">
-        @include('works.youtube')
-        @include('works.base-shop')
+        @include('links.note')
+        @include('links.youtube')
+        @include('links.base-shop')
 
-        @include('works.youtube1')
+        @include('links.youtube1')
     </div>
 </div>
