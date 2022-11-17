@@ -4,4 +4,5 @@
     </h3>
 
     <div>メンバーブログ。</div>
+    <x-note-rss></x-note-rss>
 </div>
