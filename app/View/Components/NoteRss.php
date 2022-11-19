@@ -4,6 +4,7 @@ namespace App\View\Components;
 
 use Carbon\Carbon;
 use Illuminate\Support\Collection;
+use Illuminate\Support\Facades\Http;
 use Illuminate\View\Component;
 
 class NoteRss extends Component
@@ -13,27 +14,18 @@ class NoteRss extends Component
      *
      * @param  Collection  $items
      */
-    public function __construct(public Collection $items)
-    {
-        $this->items = cache()->remember('note.rss', now()->addHours(12), function () {
-            $items = collect();
+    public function __construct(
+        public Collection $items
+    ) {
+        $url = 'https://d2ttuujo1i51fi.cloudfront.net/note_pcs_miraizu.json';
 
-            $xml = simplexml_load_file('https://note.com/pcs_miraizu/rss');
-
-            if (! $xml) {
-                return $items;
-            }
-
-            foreach ($xml->channel->item as $item) {
-                $items->push([
-                    'title' => (string) $item->title,
-                    'link' => (string) $item->link,
-                    'date' => Carbon::parse($item->pubDate)->toDateString(),
-                ]);
-            }
-
-            return $items->take(3);
-        });
+        $this->items = cache()->remember(
+            'note.rss',
+            now()->addHours(12),
+            fn () => Http::get($url)
+                         ->collect()
+                         ->take(3)
+        );
     }
 
     /**
