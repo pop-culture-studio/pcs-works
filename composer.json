@@ -11,8 +11,7 @@
         "laravel/jetstream": "^2.7",
         "laravel/sanctum": "^2.15",
         "laravel/tinker": "^2.7",
-        "livewire/livewire": "^2.10",
-        "ext-simplexml": "*"
+        "livewire/livewire": "^2.10"
     },
     "require-dev": {
         "spatie/laravel-ignition": "^1.0",
