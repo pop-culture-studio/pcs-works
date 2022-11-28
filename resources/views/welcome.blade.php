@@ -15,7 +15,7 @@
             <h2 class="text-lg text-gray-900 leading-7 font-bold">仕事メニュー</h2>
         </div>
 
-        <div class="ml-6">
+        <div class="ml-3">
             @include('menu')
         </div>
     </div>
@@ -25,7 +25,7 @@
             <h2 class="text-lg text-gray-900 leading-7 font-bold">制作実績</h2>
         </div>
 
-        <div class="ml-6">
+        <div class="ml-3">
             @include('works')
         </div>
 
@@ -33,7 +33,7 @@
             <h2 class="text-lg text-gray-900 leading-7 font-bold">関連</h2>
         </div>
 
-        <div class="ml-6">
+        <div class="ml-3">
             @include('links')
         </div>
     </div>
