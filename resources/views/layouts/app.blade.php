@@ -18,7 +18,7 @@
         <meta property="og:image" content="{{ asset('/images/card.jpg') }}">
 
         <!-- Fonts -->
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;600;700;900&display=swap">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;600;700;800;900&display=swap">
 
         {{-- @livewireStyles --}}
 
