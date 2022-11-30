@@ -2,6 +2,7 @@
     <div class="divide-y">
         @include('works.souko')
         @include('works.grouphome')
+        @include('works.pcs')
 
         {{-- @include('works.sample') --}}
         {{-- @include('works.sample2') --}}
