@@ -11,9 +11,14 @@
             "use": "@vercel/static"
         }
     ],
-    "routes": [{
+    "routes": [
+        {
             "src": "/build/assets/(.*)",
             "dest": "/public/build/assets/$1"
+        },
+        {
+            "src": "/build/(.*)",
+            "dest": "/public/build/$1"
         },
         {
             "src": "/images/(.*)",
