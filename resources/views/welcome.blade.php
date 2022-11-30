@@ -22,7 +22,7 @@
         </div>
     </div>
 
-    <div class="p-3 border-t border-gray-100 md:border-t-0 md:border-l">
+    <div class="py-3 md:px-3 border-t border-gray-100 md:border-t-0 md:border-l">
         <div class="flex items-center">
             <h2 class="text-lg text-gray-900 leading-7 font-bold">制作実績</h2>
         </div>
