@@ -1,5 +1,5 @@
 <div class="py-3">
-    <h3 class="font-bold text-xl text-gray-900">新規Webシステム開発・運用</h3>
+    <h3 class="font-bold text-xl text-gray-900">Webシステム開発・運用</h3>
 
     <div class="mt-1">
         <a href="https://pcs-miraizu.com/" class="underline" target="_blank">PCSサイト</a>やここのようなプログラマー／エンジニアによるWebシステム開発とその後の継続的な運用。<a
