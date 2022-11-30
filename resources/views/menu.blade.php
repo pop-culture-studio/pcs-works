@@ -9,7 +9,7 @@
             </div>
         @endforeach
     </div>
-    <div>
-        <img src="{{ asset('images/working.jpg') }}" class="w-full shadow-lg rounded-md" alt="仕事一覧" title="仕事一覧">
-    </div>
+    {{--    <div>--}}
+    {{--        <img src="{{ asset('images/working.jpg') }}" class="w-full shadow-lg rounded-md" alt="仕事一覧" title="仕事一覧">--}}
+    {{--    </div>--}}
 </div>
