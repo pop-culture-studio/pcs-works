@@ -3,5 +3,6 @@
     <div class="divide-y">
         @include('menu.develop')
         @include('menu.laravel')
+        @include('menu.aws')
     </div>
 </div>
