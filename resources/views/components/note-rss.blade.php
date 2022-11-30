@@ -1,5 +1,5 @@
 <div class="bg-white border rounded p-2 m-2">
-    <ul class="grid gap-1">
+    <ul class="space-y-1">
         @foreach($items as $item)
             <li>
                 <a href="{{ $item['link'] ?? '' }}"
