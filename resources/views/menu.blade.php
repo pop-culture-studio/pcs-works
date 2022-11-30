@@ -2,5 +2,6 @@
     <div>こんなことができますという例。</div>
     <div class="divide-y">
         @include('menu.develop')
+        @include('menu.laravel')
     </div>
 </div>
