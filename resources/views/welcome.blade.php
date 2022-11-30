@@ -1,4 +1,4 @@
-<div class="p-6 md:px-20 bg-white border-b border-gray-200 bg-opacity-80">
+<div class="p-6 md:px-10 bg-white border-b border-gray-200 bg-opacity-80">
 
     <h1 class="mt-2 text-4xl font-extrabold">
         <a href="/">
@@ -12,7 +12,7 @@
 </div>
 
 <div class="bg-gray-100 grid grid-cols-1 md:grid-cols-2">
-    <div class="p-6 md:pl-20 bg-gray-100">
+    <div class="p-6 md:pl-10 bg-gray-100">
         <div class="flex items-center">
             <h2 class="text-lg text-gray-900 leading-7 font-bold">仕事メニュー</h2>
         </div>
