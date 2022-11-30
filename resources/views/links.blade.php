@@ -3,6 +3,7 @@
         @include('links.note')
         @include('links.instagram')
         @include('links.youtube')
+        @include('links.snabi')
         @include('links.base-shop')
 
         @include('links.youtube1')
