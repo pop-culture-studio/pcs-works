@@ -1,5 +1,5 @@
 <div class="py-3">
-    <h3 class="font-bold text-xl">
+    <h3 class="font-extrabold tracking-wide font-serif italic text-xl">
         Instagram
     </h3>
 
