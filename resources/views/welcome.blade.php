@@ -1,7 +1,7 @@
 <div class="p-6 sm:px-20 bg-white border-b border-gray-200 bg-opacity-80">
 
     <h1 class="mt-2 text-2xl font-extrabold">
-        PCSエンジニアチームへの仕事の依頼はこちらから
+        PCS開発チームへの仕事の依頼はこちらから
     </h1>
 
     <div class="mt-6 text-gray-700">
