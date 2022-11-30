@@ -13,7 +13,7 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Nunito', ...defaultTheme.fontFamily.sans],
+                sans: ['"M PLUS Rounded 1c"', ...defaultTheme.fontFamily.sans],
             },
             colors: {
                 indigo: colors.blue,

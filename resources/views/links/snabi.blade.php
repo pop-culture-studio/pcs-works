@@ -1,12 +1,12 @@
 <div class="py-3">
-    <h3 class="font-bold text-xl">
+    <h3 class="font-black text-xl">
         <ruby>
             LIT<span class="text-green-600">A</span>LICO
             <rp>(</rp>
             <rt>りたりこ</rt>
             <rp>)</rp>
         </ruby>
-        <span class="text-green-600">仕事ナビ</span>
+        <span class="font-bold text-green-600">仕事ナビ</span>
     </h3>
 
     <ul class="p-2 space-y-1">
