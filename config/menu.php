@@ -14,12 +14,12 @@ return [
         <div class="p-2"><span class="font-bold mr-3">営業時間</span>10時から15時</div>
         </div>',
     ],
-    [
-        'title' => '飲食店向けのスマホで注文するセルフオーダーシステム',
-        'text' => '店内で利用する想定。<a href="https://pcs-order-sample.vercel.app/order/1" class="underline underline-offset-2" target="_blank">サンプル</a>',
-    ],
-    [
-        'title' => '小さい通知ツール',
-        'text' => 'LINEやチャットなどに何らかの情報を通知するようなツール。<a href="https://github.com/pop-culture-studio/aws-cost" class="underline underline-offset-2" target="_blank">AWSのコストをLINEに通知。</a>',
-    ],
+    //    [
+    //        'title' => '飲食店向けのスマホで注文するセルフオーダーシステム',
+    //        'text' => '店内で利用する想定。<a href="https://pcs-order-sample.vercel.app/order/1" class="underline underline-offset-2" target="_blank">サンプル</a>',
+    //    ],
+    //    [
+    //        'title' => '小さい通知ツール',
+    //        'text' => 'LINEやチャットなどに何らかの情報を通知するようなツール。<a href="https://github.com/pop-culture-studio/aws-cost" class="underline underline-offset-2" target="_blank">AWSのコストをLINEに通知。</a>',
+    //    ],
 ];
