@@ -1,8 +1,8 @@
 <div class="py-3">
-    <h3 class="font-bold text-xl text-gray-900">Webシステム開発・運用</h3>
+    <h3 class="font-bold text-xl text-gray-900">Webシステム開発・運用（新規）</h3>
 
     <div class="mt-1">
-        プログラマー／エンジニアによるWebシステム開発とその後の継続的な運用。<a
+        プログラマー／エンジニアによるWebシステム開発とその後の継続的な運用。公開用に限らず社内専用システムやスマホアプリのサーバーサイドまで。<a
             href="https://github.com/pop-culture-studio" class="underline" target="_blank">GitHub</a>
         <div class="bg-white border rounded my-2">
             <div class="border-b p-2"><span class="font-bold mr-3">料金目安</span>月額11万円(10万円+消費税1万円)</div>
