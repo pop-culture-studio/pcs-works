@@ -35,7 +35,7 @@
 
         <div class="p-6">
             <div class="flex items-center">
-                <h2 class="text-lg text-gray-900 leading-7 font-bold">関連</h2>
+                <h2 class="text-lg text-gray-900 leading-7 font-bold">関連リンク</h2>
             </div>
 
             <div class="ml-3">
