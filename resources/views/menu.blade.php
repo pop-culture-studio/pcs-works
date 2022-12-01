@@ -1,8 +1,8 @@
 <div class="mt-2 text-sm text-gray-700">
     <div class="divide-y">
-        @include('menu.develop')
-        @include('menu.laravel')
-        @include('menu.aws')
-        @include('menu.free-hp')
+        @includeIf('menu.develop')
+        @includeIf('menu.laravel')
+        @includeIf('menu.aws')
+        @includeIf('menu.free-hp')
     </div>
 </div>

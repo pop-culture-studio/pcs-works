@@ -1,11 +1,11 @@
 <div class="mt-2 text-sm text-gray-700">
     <div class="divide-y">
-        @include('links.note')
-        @include('links.instagram')
-        @include('links.youtube')
-        @include('links.snabi')
-        @include('links.base-shop')
+        @includeIf('links.note')
+        @includeIf('links.instagram')
+        @includeIf('links.youtube')
+        @includeIf('links.snabi')
+        @includeIf('links.base-shop')
 
-        @include('links.youtube1')
+        @includeIf('links.youtube1')
     </div>
 </div>
