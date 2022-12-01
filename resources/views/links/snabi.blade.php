@@ -2,9 +2,7 @@
     <h3 class="font-black text-xl">
         <ruby>
             LIT<span class="text-green-600">A</span>LICO
-            <rp>(</rp>
             <rt class="font-bold">りたりこ</rt>
-            <rp>)</rp>
         </ruby>
         <span class="font-bold text-green-600">仕事ナビ</span>
     </h3>
