@@ -4,5 +4,6 @@
         @include('menu.develop')
         @include('menu.laravel')
         @include('menu.aws')
+        @include('menu.free-hp')
     </div>
 </div>
