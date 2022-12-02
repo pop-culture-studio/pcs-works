@@ -5,7 +5,5 @@
         @includeIf('links.youtube')
         @includeIf('links.snabi')
         @includeIf('links.base-shop')
-
-        @includeIf('links.youtube1')
     </div>
 </div>
