@@ -12,13 +12,17 @@
 </div>
 
 <div class="bg-gray-100 grid grid-cols-1 md:grid-cols-2">
-    <div class="p-6 md:pl-10 bg-gray-100">
-        <div class="flex items-center">
-            <h2 class="text-lg text-gray-900 leading-7 font-bold">仕事メニュー</h2>
+    <div class="md:pl-10 bg-gray-100">
+        <div class="p-6">
+            @includeIf('profile')
         </div>
 
-        <div class="ml-3">
-            @include('menu')
+        <div class="p-6">
+            <h2 class="text-lg text-gray-900 leading-7 font-bold">仕事メニュー</h2>
+
+            <div class="ml-3">
+                @include('menu')
+            </div>
         </div>
     </div>
 
