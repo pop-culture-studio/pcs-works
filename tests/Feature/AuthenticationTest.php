@@ -5,6 +5,7 @@ namespace Tests\Feature;
 use App\Models\User;
 use App\Providers\RouteServiceProvider;
 use Illuminate\Foundation\Testing\RefreshDatabase;
+use Laravel\Fortify\Features;
 use Tests\TestCase;
 
 class AuthenticationTest extends TestCase
@@ -13,6 +14,10 @@ class AuthenticationTest extends TestCase
 
     public function test_login_screen_can_be_rendered()
     {
+        if (! Features::enabled(Features::registration())) {
+            return $this->markTestSkipped('Registration support is not enabled.');
+        }
+
         $response = $this->get('/login');
 
         $response->assertStatus(200);
