@@ -14,6 +14,7 @@
                target="_blank">
                 PCS未来図 福岡（博多）
             </a>
+            <x-snabi-rss location="hakata"></x-snabi-rss>
         </li>
 
         <li>
@@ -22,6 +23,7 @@
                target="_blank">
                 PCS未来図 小倉
             </a>
+            <x-snabi-rss location="kokura"></x-snabi-rss>
         </li>
     </ul>
 </div>
