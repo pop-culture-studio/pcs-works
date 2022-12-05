@@ -25,7 +25,7 @@
 
         @includeIf('layouts.ga')
     </head>
-    <body class="font-sans antialiased">
+    <body class="font-sans antialiased underline-offset-4">
         <div class="min-h-screen bg-gray-100">
             <main>
                 {{ $slot }}

@@ -10,7 +10,7 @@
     <ul class="p-2 space-y-1">
         <li>
             <a href="https://snabi.jp/facility/19496"
-               class="text-indigo-500 underline underline-offset-2"
+               class="text-indigo-500 underline"
                target="_blank">
                 PCS未来図 福岡（博多）
             </a>
@@ -18,7 +18,7 @@
 
         <li>
             <a href="https://snabi.jp/facility/22928"
-               class="text-indigo-500 underline underline-offset-2"
+               class="text-indigo-500 underline"
                target="_blank">
                 PCS未来図 小倉
             </a>
