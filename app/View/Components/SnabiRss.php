@@ -12,6 +12,7 @@ class SnabiRss extends Component
      * Create a new component instance.
      *
      * @param  Collection  $items
+     * @param  string  $location
      */
     public function __construct(
         public Collection $items,
