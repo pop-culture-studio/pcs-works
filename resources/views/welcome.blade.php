@@ -14,10 +14,6 @@
 <div class="bg-gray-100 grid grid-cols-1 md:grid-cols-2">
     <div class="md:pl-10 bg-gray-100">
         <div class="p-6">
-            @includeIf('profile')
-        </div>
-
-        <div class="p-6">
             <h2 class="text-lg text-gray-900 leading-7 font-bold">仕事メニュー</h2>
 
             <div class="ml-3">
@@ -46,5 +42,15 @@
                 @include('links')
             </div>
         </div>
+    </div>
+</div>
+
+<div class="p-6 md:px-10 bg-white border-t border-gray-200 bg-opacity-80">
+    <div class="ml-3">
+        @includeIf('profile')
+    </div>
+
+    <div class="ml-3 mt-6">
+        @includeIf('articles')
     </div>
 </div>

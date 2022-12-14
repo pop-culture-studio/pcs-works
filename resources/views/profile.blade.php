@@ -1,7 +1,7 @@
 <h2 class="text-lg text-gray-900 leading-7 font-bold">プロフィール</h2>
 
-<div class="ml-3 text-xs">
-    <ul class="mt-3 list-disc list-inside space-y-1">
+<div class="ml-3 text-xs prose prose-a:text-blue-500 max-w-none">
+    <ul>
         <li>1996年頃、当時は大学が一番自由にPCとネットを使えたので初期からネット関連の技術に触れる。html→Perl→PHP。</li>
         <li>200X年代はMac/Windowsアプリ開発をメインにそのためのWebサイトも自ら作っていた。</li>
         <li>スマホの普及と共にPCアプリは終了してWebメインに移行。</li>
