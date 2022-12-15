@@ -7,7 +7,8 @@
         <div class="bg-white border rounded my-2">
             <div class="border-b p-2"><span class="font-bold mr-3">料金目安</span>月額11万円(10万円+消費税1万円)</div>
             <div class="border-b p-2"><span class="font-bold mr-3">営業日</span>月曜から土曜(日曜・祝日と一部の日は休日)</div>
-            <div class="p-2"><span class="font-bold mr-3">営業時間</span>10時から15時</div>
+            <div class="border-b p-2"><span class="font-bold mr-3">営業時間</span>10時から15時</div>
+            <div class="p-2"><span class="font-bold mr-3">作業時間</span>営業時間内。時間外まで延長する場合は別料金。</div>
         </div>
     </div>
 </div>
