@@ -2,10 +2,13 @@
 
 return [
     [
+        'title' => 'Laravelの禁忌',
+        'url' => 'https://github.com/pop-culture-studio/articles/blob/main/laravel-taboo.md',
+    ],
+    [
         'title' => 'Vercel 外部WebAPIから取得したjsonをそのまま返すサーバーレス関数 (Node.js/TypeScript/Golang/Ruby/Python版)',
         'url' => 'https://github.com/pop-culture-studio/articles/blob/main/vercel-severless-functions-api-json.md',
     ],
-
     [
         'title' => 'Laravel mixからlaravel-vite-pluginに移行する',
         'url' => 'https://github.com/pop-culture-studio/articles/blob/main/laravel-vite-plugin.md',
