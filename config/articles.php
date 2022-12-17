@@ -2,6 +2,10 @@
 
 return [
     [
+        'title' => 'Laravel 0からの開発環境構築 Windows11版',
+        'url' => 'https://github.com/pop-culture-studio/articles/blob/main/laravel-installation-windows.md',
+    ],
+    [
         'title' => 'Laravelの禁忌',
         'url' => 'https://github.com/pop-culture-studio/articles/blob/main/laravel-taboo.md',
     ],
