@@ -2,7 +2,7 @@
 
 return [
     [
-        'title' => 'Laravel 0からの開発環境構築 Windows11版',
+        'title' => 'Laravel 新PCでの開発環境構築 Windows11版',
         'url' => 'https://github.com/pop-culture-studio/articles/blob/main/laravel-installation-windows.md',
     ],
     [
