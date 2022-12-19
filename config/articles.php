@@ -2,6 +2,10 @@
 
 return [
     [
+        'title' => 'Laravel 開発環境構築 Mac版',
+        'url' => 'https://github.com/pop-culture-studio/articles/blob/main/laravel-installation-mac.md',
+    ],
+    [
         'title' => 'Laravel 新PCでの開発環境構築 Windows11版',
         'url' => 'https://github.com/pop-culture-studio/articles/blob/main/laravel-installation-windows.md',
     ],
