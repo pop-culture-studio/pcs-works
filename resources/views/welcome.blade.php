@@ -47,10 +47,6 @@
 
 <div class="p-6 md:px-10 bg-white border-t border-gray-200 bg-opacity-80">
     <div class="ml-3">
-        @includeIf('profile')
-    </div>
-
-    <div class="ml-3 mt-6">
         @includeIf('articles')
     </div>
 </div>
