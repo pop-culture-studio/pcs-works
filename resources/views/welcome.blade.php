@@ -1,7 +1,7 @@
 <div class="p-6 md:px-10 bg-white border-b border-gray-200 bg-opacity-80">
 
     <h1 class="mt-2 text-4xl font-extrabold">
-        <a href="/">
+        <a href="{{ route('index') }}">
             PCS開発チームへの仕事の依頼はこちらから
         </a>
     </h1>
@@ -45,8 +45,12 @@
     </div>
 </div>
 
-<div class="p-6 md:px-10 bg-white border-t border-gray-200 bg-opacity-80">
+<div class="p-6 md:px-10 bg-white border-t border-gray-200 bg-opacity-80 grid grid-cols-1 md:grid-cols-2 gap-4">
     <div class="ml-3">
         @includeIf('articles')
+    </div>
+
+    <div class="ml-3">
+        @includeIf('books')
     </div>
 </div>

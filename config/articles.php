@@ -30,7 +30,7 @@ return [
         'url' => 'https://github.com/pop-culture-studio/articles/blob/main/laravel-unless.md',
     ],
     [
-        'title' => 'Laravel/Livewireページネーションでページ移動後に自動スクロールさせる',
+        'title' => 'Laravel/Livewire ページネーションでページ移動後に自動スクロールさせる',
         'url' => 'https://github.com/pop-culture-studio/articles/blob/main/livewire-pagination.md',
     ],
     [
