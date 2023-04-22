@@ -13,7 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'index')->name('index');
+//Route::view('/', 'index')->name('index');
+
+Route::get('/', function () {
+    return redirect()->away('https://puklipo.com/');
+});
 
 //Route::middleware([
 //    'auth:sanctum',
